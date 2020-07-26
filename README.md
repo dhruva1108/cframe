@@ -1,3 +1,2 @@
 # cframe
-# This is a package which has been developed to read large csv files at a faster rate.
-# It involves libraries dask, vaex and modin.pandas
+### This is a python package designed to read Big_Data and do the operations
