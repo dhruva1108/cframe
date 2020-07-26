@@ -14,4 +14,4 @@
 #### modin.pandas as pd
 #### numpy as np
 #### matplotib as mlt
-### Note: You do need to import the above libraries again since they are already imported in the "__init__.py" file
+### Note: You do need to import the above libraries again since they are already imported in the "__init__.py" file unless you want to import a particular sub-package from them
